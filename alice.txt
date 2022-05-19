@@ -2,4 +2,9 @@ Hi,
 How is going?
 What is your name?
 12345
+<<<<<<< HEAD
 githum
+=======
+welcome to GitHub
+pull it
+>>>>>>> e543d016f7f5acfc93abc6213fc9b743e60afaa6
